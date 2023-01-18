@@ -1,7 +1,7 @@
-package currencyexchange2.persistance;
+package currencyexchange2.persistancee;
 
+import currencyexchange2.modell.Currency;
 import java.util.Iterator;
-import currencyexchange2.model.*;
 
 public class CurrencyListReader implements Loader{
     

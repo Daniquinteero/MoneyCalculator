@@ -1,4 +1,4 @@
-package currencyexchange2.view;
+package currencyexchange2.vieww;
 
 import com.google.gson.annotations.SerializedName;
 

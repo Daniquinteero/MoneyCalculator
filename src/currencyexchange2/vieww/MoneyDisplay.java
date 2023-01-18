@@ -1,4 +1,4 @@
-package currencyexchange2.view;
+package currencyexchange2.vieww;
 
 public interface MoneyDisplay {
     void display(double amount);

@@ -1,9 +1,9 @@
 package currencyexchange2.control;
 
-import currencyexchange2.view.Rate;
-import currencyexchange2.view.MoneyDisplay;
-import currencyexchange2.view.MoneySwingDialog;
-import currencyexchange2.view.MoneySwingDisplay;
+import currencyexchange2.vieww.Rate;
+import currencyexchange2.vieww.MoneyDisplay;
+import currencyexchange2.vieww.MoneySwingDialog;
+import currencyexchange2.vieww.MoneySwingDisplay;
 import java.io.IOException;
 import java.util.logging.Level;
 import java.util.logging.Logger;

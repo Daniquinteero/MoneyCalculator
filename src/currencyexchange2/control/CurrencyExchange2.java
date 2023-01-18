@@ -1,7 +1,7 @@
 package currencyexchange2.control;
 
-import currencyexchange2.persistance.CurrencyListReader;
-import currencyexchange2.model.*;
+import currencyexchange2.modell.CurrencyList;
+import currencyexchange2.persistancee.CurrencyListReader;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 

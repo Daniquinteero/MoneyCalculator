@@ -1,7 +1,7 @@
-package currencyexchange2.persistance;
+package currencyexchange2.persistancee;
 
 import com.google.gson.Gson;
-import currencyexchange2.view.ExchangeBoardPojo;
+import currencyexchange2.vieww.ExchangeBoardPojo;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

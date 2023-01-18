@@ -1,7 +1,7 @@
-package currencyexchange2.view;
+package currencyexchange2.vieww;
 
-import currencyexchange2.model.Currency;
-import currencyexchange2.model.CurrencyList;
+import currencyexchange2.modell.Currency;
+import currencyexchange2.modell.CurrencyList;
 import java.awt.Component;
 import java.awt.FlowLayout;
 import javax.swing.JComboBox;

@@ -1,6 +1,6 @@
-package currencyexchange2.view;
+package currencyexchange2.vieww;
 
-import currencyexchange2.persistance.Webservice;
+import currencyexchange2.persistancee.Webservice;
 import java.io.IOException;
 
 public class Rate {

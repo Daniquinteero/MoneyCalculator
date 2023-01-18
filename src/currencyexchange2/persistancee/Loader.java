@@ -1,4 +1,4 @@
-package currencyexchange2.persistance;
+package currencyexchange2.persistancee;
 
 public interface Loader {
     Iterable read();

@@ -1,4 +1,4 @@
-package currencyexchange2.view;
+package currencyexchange2.vieww;
 
 import java.awt.Component;
 import java.awt.FlowLayout;

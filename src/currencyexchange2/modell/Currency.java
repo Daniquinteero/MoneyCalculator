@@ -1,4 +1,4 @@
-package currencyexchange2.model;
+package currencyexchange2.modell;
 
 
 public class Currency {

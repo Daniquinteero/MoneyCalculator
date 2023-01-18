@@ -1,8 +1,8 @@
 package currencyexchange2.control;
 
-import currencyexchange2.model.CurrencyList;
-import currencyexchange2.view.MoneySwingDialog;
-import currencyexchange2.view.MoneySwingDisplay;
+import currencyexchange2.modell.CurrencyList;
+import currencyexchange2.vieww.MoneySwingDialog;
+import currencyexchange2.vieww.MoneySwingDisplay;
 import java.awt.Component;
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
