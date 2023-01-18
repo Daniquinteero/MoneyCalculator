@@ -1,4 +1,4 @@
-package currencyexchange2;
+package currencyexchange2.control;
 
 import currencyexchange2.persistance.CurrencyListReader;
 import currencyexchange2.model.*;
